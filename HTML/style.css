@@ -1,0 +1,17 @@
+h1 {
+    font:  "Arial";/* esse é o tipo de fonte e o tamanho dado ao titulo do arquivo html */
+    color: red;/* esse é a cor dada ao titulo do arquivo html */
+    font-size: 70px; /* "70px" é o tamanho dado ao titulo do arquivo html */
+    font-family: "Franklin Gothic Medium"; /* esse é o tipo de fonte dado ao titulo do arquivo html */
+    font-style: italic; /* esse é o estilo dado ao titulo do arquivo html */
+   }
+   
+   p {
+    color: blue;/* esse é a cor dada ao paragrafo do arquivo html */
+    background-color: rgb(146, 146, 26);/* esse é a cor dada ao fundo do paragrafo do arquivo html */
+   }
+
+
+   .gray-element{
+    background-color: lightGray;
+   }
