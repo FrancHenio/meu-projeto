@@ -31,4 +31,4 @@ Esse repositório contém minhas anotações, códigos de prática e aprendizado
 
 ---
 Feito com 💻 por FrancHenio
-GitHub | LinkedIn (linkedin.com/in/heniogfranca/)
+GitHub | LinkedIn (www.linkedin.com/in/heniogfranca/)
